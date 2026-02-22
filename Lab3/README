@@ -1,0 +1,18 @@
+# Lab 3 – Exploratory Data Analysis (EDA)
+
+## Dataset
+Ecommerce Sales Data (2024–2025)  
+Source: Kaggle
+
+This dataset contains e-commerce sales records, including order details, customer information, product categories, sales, profit, and payment modes.
+
+## Objective
+The goal of this lab is to perform Exploratory Data Analysis (EDA) to understand the dataset structure and extract basic insights.
+
+## Tasks
+- Load the dataset
+- Explore the data (shape, columns, info)
+- Check missing values
+- Compute basic statistics
+- Analyze sales and profit by category and region
+- Visualize simple distributions
